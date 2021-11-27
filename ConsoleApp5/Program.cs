@@ -9,6 +9,7 @@ class Person
     public void Print()
     {
         Console.WriteLine("Привет");
+        Console.WriteLine("С изменениями");
     }
 
 }
